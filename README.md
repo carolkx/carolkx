@@ -18,5 +18,4 @@ git add .
 git commit -m "message goes here"
 git push
 
-hello
-hi
+allow me to understand
