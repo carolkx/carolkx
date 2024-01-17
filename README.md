@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 git add .
 git commit -m "message goes here"
 git push
+
+hello
+hi
